@@ -1,0 +1,3 @@
+C:/Users/valen/Documents/GitHub/LDP-Practice1/Code/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/valen/Documents/GitHub/LDP-Practice1/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valen/Documents/GitHub/LDP-Practice1/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
